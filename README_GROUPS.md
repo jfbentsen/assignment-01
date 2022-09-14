@@ -35,7 +35,7 @@ If you switch to another group, send a pull request to this file that indicates 
 * Group 27: raoo, annro, aegr
 * Group 28: diol, kays, emno
 * Group 29: husa, frepe, adrka
-* Group 30: json, clwj, emkh
+* Group 30: clwj, emkh
 * Group 31: jwni, rafa, otja
 * Group 32: lawu, frgm, tuka
 * Group 33: wihe, oljh, okre
@@ -55,3 +55,4 @@ If you switch to another group, send a pull request to this file that indicates 
 * Group 47: Emno, frhc, bhag
 * Group 48: asly, mbjn
 * Group 49: phla, unla
+* Group 50: json
