@@ -1,4 +1,4 @@
-namespace Assignment1.Tests;
+namespace Assignment.Tests;
 
 public class IteratorsTests
 {

@@ -1,4 +1,4 @@
-namespace Assignment1;
+namespace Assignment;
 
 public static class Iterators
 {

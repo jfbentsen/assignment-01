@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    
+
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 
@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Assignment1\Assignment1.csproj" />
+    <ProjectReference Include="..\Assignment\Assignment.csproj" />
   </ItemGroup>
 
 </Project>
