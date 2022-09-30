@@ -16,7 +16,7 @@ namespace Assignment.Tests
         }
 
         [Fact]
-        public void Resolution_givenResolutionString_ReturnStreamAsTuples()
+        public void ResolutiongivenResolutionStringReturnStreamAsTuples()
         {
             
             List<(int,int)> expected = new List<(int,int)>(){(1024,768),(800,600),(640,480)};
