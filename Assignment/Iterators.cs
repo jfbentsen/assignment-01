@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-namespace Assignment1
+namespace Assignment
 {
     public static class Iterators
     {
